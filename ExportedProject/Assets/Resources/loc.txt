@@ -1,0 +1,1078 @@
+<body>
+  <Languages>
+    <English tag="en"/>
+    <Russian tag="ru"/>
+    <Japanese tag="ja"/>
+    <German tag="de"/>
+    <Italian tag="it"/>
+    <Portuguese tag="pt"/>
+    <Chinese tag="zh"/>
+    <Spanish tag="es"/>
+    <French tag="fr"/>
+    <Korean tag="ko"/>
+  </Languages>
+
+  <Text>
+
+    <Line text="Play">
+      <en>Play</en>
+      <ru>Играть</ru>
+      <ja>再生</ja>
+      <de>Spielen</de>
+      <it>Gioca</it>
+      <pt>Jogar</pt>
+      <zh>玩</zh>
+      <es>Jugar</es>
+      <fr>Jouer</fr>
+      <ko>플레이</ko>
+    </Line>
+
+    <Line text="Loading">
+      <en>Loading</en>
+      <ru>Загрузка</ru>
+      <ja>ローディング</ja>
+      <de>Laden</de>
+      <it>Caricamento</it>
+      <pt>Carregamento</pt>
+      <zh>载入</zh>
+      <es>Cargando</es>
+      <fr>Сhargement</fr>
+      <ko>로드</ko>
+    </Line>
+
+    <Line text="Single player">
+      <en>Single player</en>
+      <ru>Один игрок</ru>
+      <ja>シングルプレイヤー</ja>
+      <de>Einzelspieler</de>
+      <it>Giocatore Singolo</it>
+      <pt>Um Jogador</pt>
+      <zh>单人</zh>
+      <es>Solo jugador</es>
+      <fr>1 joueur</fr>
+      <ko>한 선수</ko>
+    </Line>
+
+    <Line text="Multiplayer">
+      <en>Multiplayer</en>
+      <ru>Сетевая игра</ru>
+      <ja>マルチプレイヤー</ja>
+      <de>Mehrspieler</de>
+      <it>Multiplayer</it>
+      <pt>Multiplayer</pt>
+      <zh>多人</zh>
+      <es>Multijugador</es>
+      <fr>Multijoueur</fr>
+      <ko>멀티 플레이어</ko>
+    </Line>
+
+    <Line text="You won">
+      <en>You won</en>
+      <ru>Вы победили</ru>
+      <ja>あなたは勝ちました</ja>
+      <de>Gewonnen</de>
+      <it>Hai Vinto</it>
+      <pt>Você ganhou</pt>
+      <zh>你获胜了</zh>
+      <es>Has ganado</es>
+      <fr>Vous avez gagné</fr>
+      <ko>이겼다</ko>
+    </Line>
+
+    <Line text="Game Over">
+      <en>Game Over</en>
+      <ru>Игра окончена</ru>
+      <ja>ゲームオーバー</ja>
+      <de>Das Spiel ist aus</de>
+      <it>Game Over</it>
+      <pt>Game Over</pt>
+      <zh>游戏结束</zh>
+      <es>El juego acabó</es>
+      <fr>Game Over</fr>
+      <ko>게임 오버</ko>
+    </Line>
+
+    <Line text="Connection status">
+      <en>Connection status</en>
+      <ru>Статус соединения</ru>
+      <ja>接続状態</ja>
+      <de>Verbindungsstatus</de>
+      <it>Stato della connessione</it>
+      <pt>Status da conexão</pt>
+      <zh>连接状态</zh>
+      <es>Estado de la conexión</es>
+      <fr>État de connexion</fr>
+      <ko>연결 상태</ko>
+    </Line>
+
+    <Line text="Create Server">
+      <en>Create Server</en>
+      <ru>Создать сервер</ru>
+      <ja>サーバーを作る</ja>
+      <de>Server erstellen</de>
+      <it>Creare Server</it>
+      <pt>Criar um servidor</pt>
+      <zh>创建服务器</zh>
+      <es>Crear un servidor</es>
+      <fr>Сréer un serveur</fr>
+      <ko>서버 만들기</ko>
+    </Line>
+
+    <Line text="Provide IP address to your friends">
+      <en>Provide IP address to your friends</en>
+      <ru>Дай IP адрес своим друзьям</ru>
+      <ja>IPアドレスをシェアする</ja>
+      <de>Teilen Sie Ihre IP-Adresse mit Ihren Freunden</de>
+      <it>Fornire l'indirizzo IP ai tuoi amici</it>
+      <pt>Fornecer o endereço IP para os seus amigos</pt>
+      <zh>提供IP地址对朋友们</zh>
+      <es>Dar dirección IP a tus amigos</es>
+      <fr>Partagez votre adresse IP avec les amis</fr>
+      <ko>친구에게 IP 주소를 제공해주세요</ko>
+    </Line>
+
+    <Line text="Join to Server">
+      <en>Join to Server</en>
+      <ru>Подключится к серверу</ru>
+      <ja>サーバーへ参加する</ja>
+      <de>Mit Server verbinden</de>
+      <it>Unisciti alla partita</it>
+      <pt>Juntar-se ao servidor</pt>
+      <zh>加入服务器</zh>
+      <es>Unirse al servidor</es>
+      <fr>Accéder au serveur</fr>
+      <ko>서버 접근</ko>
+    </Line>
+
+    <Line text="Put server IP address here">
+      <en>Put server IP address here</en>
+      <ru>Введи IP адрес сервера здесь</ru>
+      <ja>IPアドレスを入れてください</ja>
+      <de>Geben Sie die IP-Adresse des Servers hier ein</de>
+      <it>Metti indirizzo IP del server qui</it>
+      <pt>Coloque endereço IP do servidor aqui</pt>
+      <zh>置于服务器IP地址在这里</zh>
+      <es>Pon la dirección IP del servidor aquí</es>
+      <fr>Écrivez l’adresse IP du serveur ici</fr>
+      <ko>여기에 서버 IP 주소를 넣으세요</ko>
+    </Line>
+
+    <Line text="Back">
+      <en>Back</en>
+      <ru>Назад</ru>
+      <ja>戻る</ja>
+      <de>Zurück</de>
+      <it>Indietro</it>
+      <pt>Voltar</pt>
+      <zh>回</zh>
+      <es>Atrás</es>
+      <fr>Retour</fr>
+      <ko>뒤로</ko>
+    </Line>
+
+    <Line text="Start Game">
+      <en>Start Game</en>
+      <ru>Начать игру</ru>
+      <ja>ゲームスタート</ja>
+      <de>Spiel beginnen</de>
+      <it>Inizia partita</it>
+      <pt>Iniciar Jogo</pt>
+      <zh>游戏开始</zh>
+      <es>Iniciar un juego</es>
+      <fr>Commencer le jeu</fr>
+      <ko>게임 시작</ko>
+    </Line>
+
+    <Line text="Disconnect from Server">
+      <en>Disconnect from Server</en>
+      <ru>Отсоединиться от сервера</ru>
+      <ja>サーバー切れ</ja>
+      <de>Verbindung mit dem Server trennen</de>
+      <it>Disconnettere</it>
+      <pt>Desconectar de servidor</pt>
+      <zh>从服务器断开</zh>
+      <es>Desconectar del servidor</es>
+      <fr>Se déconnecter du serveur</fr>
+      <ko>서버 연결 끊기</ko>
+    </Line>
+
+    <Line text="Connect to Server">
+      <en>Connect to Server</en>
+      <ru>Подключиться к серверу</ru>
+      <ja>サーバーへ接続する</ja>
+      <de>Mit Server verbinden</de>
+      <it>Unisciti alla partita</it>
+      <pt>Conectar ao servidor</pt>
+      <zh>连接到服务器</zh>
+      <es>Conectar al servidor</es>
+      <fr>Se connecter au serveur</fr>
+      <ko>서버에 연결</ko>
+    </Line>
+
+    <Line text="Wait while server starting the game">
+      <en>Wait while server is starting the game</en>
+      <ru>Ожидание старта игры</ru>
+      <ja>ゲームスタートを待っている</ja>
+      <de>Warten Sie, bis das Spiel beginnt</de>
+      <it>Attendere che il server faccia partire il gioco</it>
+      <pt>Aguarde enquanto o servidor inicia um jogo</pt>
+      <zh>等待当服务器开始游戏时</zh>
+      <es>Espera hasta que el servidor inicia un juego</es>
+      <fr>Attendez le serveur commencer le jeu</fr>
+      <ko>서버는 게임을 시작하는 동안 기다리세요</ko>
+    </Line>
+
+    <Line text="Player ID">
+      <en>Player ID</en>
+      <ru>ID игрока</ru>
+      <ja>プレイヤーのID</ja>
+      <de>Spieler-IDD</de>
+      <it>Giocatore ID</it>
+      <pt>ID do Jogador</pt>
+      <zh>玩家ID</zh>
+      <es>ID de jugador</es>
+      <fr>ID du joueur</fr>
+      <ko>선수 ID</ko>
+    </Line>
+
+    <Line text="Player IP address">
+      <en>Player IP address</en>
+      <ru>IP игрока</ru>
+      <ja>プレイヤーのIPアドレス</ja>
+      <de>Spieler-IP-Adresse</de>
+      <it>Indirizzo IP giocatore</it>
+      <pt>Endereço IP do Jogador</pt>
+      <zh>玩家IP地址</zh>
+      <es>Dirección IP del jugador</es>
+      <fr>Adresse IP du joueur</fr>
+      <ko>선수 ID 주소</ko>
+    </Line>
+
+    <Line text="Ping">
+      <en>Ping</en>
+      <ru>Пинг</ru>
+      <ja>Ping</ja>
+      <de>Ping</de>
+      <it>Ping</it>
+      <pt>Ping</pt>
+      <zh>Ping通</zh>
+      <es>Ping</es>
+      <fr>Ping</fr>
+      <ko>상태 테스트하기</ko>
+    </Line>
+
+    <Line text="Coins">
+      <en>Coins</en>
+      <ru>Монеты</ru>
+      <ja>コイン</ja>
+      <de>Münzen</de>
+      <it>Monete</it>
+      <pt>moedas</pt>
+      <zh>硬币</zh>
+      <es>Monedas</es>
+      <fr>Pièces de monnaie</fr>
+      <ko>동전</ko>
+    </Line>
+
+    <Line text="Health">
+      <en>Health</en>
+      <ru>Здоровье</ru>
+      <ja>ヘルス</ja>
+      <de>Gesundheit</de>
+      <it>Salute</it>
+      <pt>saúde</pt>
+      <zh>健康</zh>
+      <es>Salud</es>
+      <fr>Santé</fr>
+      <ko>건강</ko>
+    </Line>
+
+    <Line text="Damage">
+      <en>Damage</en>
+      <ru>Урон</ru>
+      <ja>被害</ja>
+      <de>Schäden</de>
+      <it>Danni</it>
+      <pt>dano</pt>
+      <zh>损害</zh>
+      <es>Daño</es>
+      <fr>Dommage</fr>
+      <ko>손해</ko>
+    </Line>
+
+    <Line text="Scores">
+      <en>Scores</en>
+      <ru>Очки</ru>
+      <ja>スコア</ja>
+      <de>Punkte</de>
+      <it>Punti</it>
+      <pt>pontos</pt>
+      <zh>得分</zh>
+      <es>Puntajes</es>
+      <fr>Points</fr>
+      <ko>점수</ko>
+    </Line>
+
+    <Line text="{0} recommends you the game {1}">
+      <en>{0} recommends you the game {1}</en>
+      <ru>{0} рекомендует {1}</ru>
+      <ja>{0}はあなたに{1}ゲームをお勧めします</ja>
+      <de>{0} empfehlt Ihnen das Spiel {1}</de>
+      <it>{0} Ti consiglia {1}</it>
+      <es>{0} te recomienda el juego {1}</es>
+      <pt>{0} você recomenda o jogo {1}</pt>
+      <zh>{0}建议你的{1}的游戏</zh>
+      <fr>{0} vous recommande le jeu {1}</fr>
+      <ko>{0} 당신에게 게임을 권해줍니다{1}</ko>
+    </Line>
+
+    <Line text="{0} won {1} points in {2} game">
+      <en>{0} won {1} points in {2} game</en>
+      <ru>{0} получил {1} очков в {2}</ru>
+      <ja>{0}は{2}ゲームで{1}ポイントを勝ちました</ja>
+      <de>{0} hat {1} Spielpunkte in {2} gewonnen</de>
+      <it>{0} Ha vinto {1} punti a {2} gioco</it>
+      <es>{0} ganó {1} puntos en {2} juego</es>
+      <pt>{0} ganhou {1} pontos em {2} jogo</pt>
+      <zh>在{2}的游戏中，{0}收集了*{1}*分</zh>
+      <fr>{0} a gagné {1} points dans le jeu {2} </fr>
+      <ko>{0}님은 {2}게임 동안 {1}포인트를 받았습니다</ko>
+    </Line>
+
+    <Line text="Your message was sent to Facebook">
+      <en>Your message was sent to Facebook</en>
+      <ru>Ваше сообщение было отправлено на Facebook</ru>
+      <ja>あなたのメッセージはFacebookに送信されました</ja>
+      <de>
+        Deine Nachricht wurde an Facebook erfoldeeich gesendet
+      </de>
+      <it>Il tuo messaggio è stato inviato a Facebook</it>
+      <es>Su mensaje ha sido enviado a Facebook</es>
+      <pt>Sua mensagem foi enviada a Facebook</pt>
+      <zh>您发送消息到Facebook</zh>
+      <fr>Votre message a été envoyé à Facebook</fr>
+      <ko>메시지를 페이스북에 전달되었습니다</ko>
+    </Line>
+
+    <Line text="Share with friends">
+      <en>Share with friends</en>
+      <ru>Поделиться с друзьями</ru>
+      <ja>共有する</ja>
+      <de>Mit Freunden teilen</de>
+      <it>Condividi con gli amici</it>
+      <es>Compartir con los amigos</es>
+      <pt>Compartilhar com os amigos</pt>
+      <zh>在Facebook上分享</zh>
+      <fr>Partager avec les amis</fr>
+      <ko>친구와 공유하기</ko>
+    </Line>
+
+    <Line text="Lap">
+      <en>Lap</en>
+      <ru>Круг</ru>
+      <ja>ラップ</ja>
+      <de>Runde</de>
+      <it>Giro</it>
+      <es>Regazo</es>
+      <pt>Regaço</pt>
+      <zh>圈</zh>
+      <fr>Tour</fr>
+      <ko>한바퀴</ko>
+    </Line>
+
+    <Line text="Speed">
+      <en>Speed</en>
+      <ru>Скорость</ru>
+      <ja>スピード</ja>
+      <de>Geschwindigkeit</de>
+      <it>Velocità</it>
+      <es>Velocidad</es>
+      <pt>Velocidade</pt>
+      <zh>速度</zh>
+      <fr>Vitesse</fr>
+      <ko>속도</ko>
+    </Line>
+
+    <Line text="Win">
+      <en>Win</en>
+      <ru>Победа</ru>
+      <ja>勝利 </ja>
+      <de>Gewonnen</de>
+      <it>Vittoria</it>
+      <es> Victoria</es>
+      <pt>Triunfo</pt>
+      <zh>胜利</zh>
+      <fr>Victoire</fr>
+      <ko>승리</ko>
+    </Line>
+
+    <Line text="Lose">
+      <en>Lose</en>
+      <ru>Проигрыш</ru>
+      <ja>敗北 </ja>
+      <de>Unentschieden</de>
+      <it>Sconfitta</it>
+      <es>Derrota</es>
+      <pt>Derrota</pt>
+      <zh>败仗</zh>
+      <fr>Défaite</fr>
+      <ko>실패</ko>
+    </Line>
+
+    <Line text="Draw">
+      <en>Draw</en>
+      <ru>Ничья</ru>
+      <ja>預かり</ja>
+      <de>Remis</de>
+      <it>Pareggio</it>
+      <es>Empate</es>
+      <pt>Empate</pt>
+      <zh>平局</zh>
+      <fr>Partie nulle</fr>
+      <ko>무승부</ko>
+    </Line>
+
+	<Line text="Start Game">
+	  <en>Start Game</en>
+	  <ru>Начать Игру</ru>
+      <ja>ゲームスタート</ja>
+      <de>Spiel anfangen</de>
+      <it>Inizia</it>
+      <es>Iniciar el juego</es>
+      <pt>Iniciar o jogo</pt>
+      <zh>开始游戏</zh>
+      <fr>Nouveau Jeu</fr>
+      <ko>게임 시작</ko>
+      </Line>
+
+	<Line text="Settings">
+	  <en>Settings</en>
+	  <ru>Настройки</ru>
+      <ja>設定</ja>
+      <de>Einstellungen</de>
+      <it>Impostazioni</it>
+      <es>Configuración</es>
+      <pt>Definições</pt>
+      <zh>设置</zh>
+      <fr>Réglages</fr>
+      <ko>설정</ko>
+      </Line>
+      
+      <Line text="Exit">
+	  <en>Exit</en>
+	  <ru>Выход</ru>
+      <ja>終了</ja>
+      <de>Beenden</de>
+      <it>Esci</it>
+      <es>Salida</es>
+      <pt>Saída</pt>
+      <zh>退出</zh>
+      <fr>Quitter</fr>
+      <ko>종료</ko>
+      </Line>
+      
+      <Line text="Desert">
+	  <en>Desert</en>
+	  <ru>Пустыня</ru>
+      <ja>砂漠</ja>
+      <de>Wüste</de>
+      <it>Deserto</it>
+      <es>Desierto</es>
+      <pt>Deserto</pt>
+      <zh>沙漠</zh>
+      <fr>Désert</fr>
+      <ko>사막</ko>
+      </Line>
+      
+       <Line text="Forest">
+	  <en>Forest</en>
+	  <ru>Лес</ru>
+      <ja>森</ja>
+      <de>Wald</de>
+      <it>Foresta</it>
+      <es>Bosque</es>
+      <pt>Floresta</pt>
+      <zh>森林</zh>
+      <fr>Forêt</fr>
+      <ko>숲</ko>
+      </Line>
+      
+       <Line text="Mountains">
+	  <en>Mountains</en>
+	  <ru>Горы</ru>
+      <ja>山脈</ja>
+      <de>Gebirge</de>
+      <it>Montagna</it>
+      <es>Montañas</es>
+      <pt>Montanhas</pt>
+      <zh>山区</zh>
+      <fr>Montagnes</fr>
+      <ko>산맥</ko>
+      </Line>
+      
+       <Line text="Back">
+	  <en>Back</en>
+	  <ru>Назад</ru>
+      <ja>戻る</ja>
+      <de>Zurück</de>
+      <it>Indietro</it>
+      <es>Volver</es>
+      <pt>Voltar</pt>
+      <zh>回退</zh>
+      <fr>Retour</fr>
+      <ko>돌아가기</ko>
+      </Line>
+      
+      <Line text="Coming soon">
+	  <en>Coming soon</en>
+	  <ru>Скоро будет доступно</ru>
+      <ja>カミングスーン</ja>
+      <de>Demnächst verfügbar</de>
+      <it>Sarà disponibile prossimamente</it>
+      <es>Será pronto</es>
+      <pt>Em breve</pt>
+      <zh>即将推出</zh>
+      <fr>A découvrir</fr>
+      <ko>곧 나올 것입니다</ko>
+      </Line>
+      
+      <Line text="Do you really want to quit">
+	  <en>Do you really want to quit?</en>
+	  <ru>Уверены, что хотите выйти?</ru>
+      <ja>終了してもよろしいですか？</ja>
+      <de>Wollen Sie wirklich beenden?</de>
+      <it>Sei sicuro di voler uscire?</it>
+      <es>¿Estás seguro que quieres salir?</es>
+      <pt>Tem certeza de que deseja sair?</pt>
+      <zh>确定要退出吗？</zh>
+      <fr>Quitter?</fr>
+      <ko>종료하시겠습니까?</ko>
+      </Line>
+      
+      <Line text="Yes">
+	  <en>Yes</en>
+	  <ru>Да</ru>
+      <ja>はい</ja>
+      <de>Ja</de>
+      <it>Si</it>
+      <es>Sí</es>
+      <pt>Sim</pt>
+      <zh>确定</zh>
+      <fr>Oui</fr>
+      <ko>예</ko>
+      </Line>
+      
+      <Line text="No">
+	  <en>No</en>
+	  <ru>Нет</ru>
+      <ja>いいえ</ja>
+      <de>Neine</de>
+      <it>No</it>
+      <es>No</es>
+      <pt>Não</pt>
+      <zh>拒绝</zh>
+      <fr>Non</fr>
+      <ko>아니요</ko>
+      </Line>
+      
+      <Line text="Display Ads">
+	  <en>Display Ads</en>
+	  <ru>Отображать рекламу</ru>
+      <ja>広告を表示する</ja>
+      <de>Werbung anzeigen</de>
+      <it>Mostrare pubblicitá</it>
+      <es>Mostar la publicidad</es>
+      <pt>Mostar propaganda</pt>
+      <zh>显示广告</zh>
+      <fr>Afficher la pub</fr>
+      <ko>광고 표시</ko>
+      </Line>
+      
+      <Line text="Car">
+	  <en>Car</en>
+	  <ru>Машина</ru>
+      <ja>車</ja>
+      <de>Auto</de>
+      <it>Macchina</it>
+      <es>Coche</es>
+      <pt>Carro</pt>
+      <zh>汽车</zh>
+      <fr>Voiture</fr>
+      <ko>자동차</ko>
+      </Line>
+      
+      <Line text="Upgrade">
+	  <en>Upgrade</en>
+	  <ru>Улучшить</ru>
+      <ja>アップグレード</ja>
+      <de>Verbessern</de>
+      <it>Aggiorna</it>
+      <es>Actualizar</es>
+      <pt>Atualizar</pt>
+      <zh>升级</zh>
+      <fr>Améliorer</fr>
+      <ko>업그레이드</ko>
+      </Line>
+      
+      <Line text="Location">
+	  <en>Location</en>
+	  <ru>Место</ru>
+      <ja>ロケーション</ja>
+      <de>Ort</de>
+      <it>Ubicazione</it>
+      <es>Localización</es>
+      <pt>Localização</pt>
+      <zh>位置</zh>
+      <fr>Endroit</fr>
+      <ko>위치</ko>
+      </Line>
+      
+      <Line text="Map">
+	  <en>Map</en>
+	  <ru>Карта</ru>
+      <ja>マップ</ja>
+      <de>Karte</de>
+      <it>Mappa</it>
+      <es>Mapa</es>
+      <pt>Mapa</pt>
+      <zh>地图</zh>
+      <fr>Carte</fr>
+      <ko>지도</ko>
+      </Line>
+      
+      <Line text="Price">
+	  <en>Price</en>
+	  <ru>Цена</ru>
+      <ja>価格</ja>
+      <de>Preis</de>
+      <it>Prezzo</it>
+      <es>Precio</es>
+      <pt>Preço</pt>
+      <zh>价格</zh>
+      <fr>Prix</fr>
+      <ko>가격</ko>
+      </Line>
+      
+      <Line text="Buy">
+	  <en>Buy</en>
+	  <ru>Купить</ru>
+      <ja>購入</ja>
+      <de>Kaufen</de>
+      <it>Acquista</it>
+      <es>Comprar</es>
+      <pt>Comprar</pt>
+      <zh>购买</zh>
+      <fr>Acheter</fr>
+      <ko>구매</ko>
+      </Line>
+      
+      <Line text="Unlocked">
+	  <en>Unlocked</en>
+	  <ru>Разблокировано</ru>
+      <ja>アンロックされた</ja>
+      <de>Entsperrt</de>
+      <it>Sbloccata</it>
+      <es>Desbloqueado</es>
+      <pt>Desbloqueado</pt>
+      <zh>解锁</zh>
+      <fr>Débloquer</fr>
+      <ko>잠금 해제</ko>
+      </Line>
+      
+      <Line text="Gun">
+	  <en>Gun</en>
+	  <ru>Пистолет</ru>
+      <ja>銃</ja>
+      <de>Pistole</de>
+      <it>Pistola</it>
+      <es>Pistola</es>
+      <pt>Pistola</pt>
+      <zh>火炮</zh>
+      <fr>Pistolet</fr>
+      <ko>총</ko>
+      </Line>
+      
+      <Line text="Weapon">
+	  <en>Weapon</en>
+	  <ru>Оружие</ru>
+      <ja>武器</ja>
+      <de>Waffe</de>
+      <it>Arma</it>
+      <es>Arma</es>
+      <pt>Arma</pt>
+      <zh>武器</zh>
+      <fr>Arme</fr>
+      <ko>무기</ko>
+      </Line>
+      
+      <Line text="Level">
+	  <en>Level</en>
+	  <ru>Уровень</ru>
+      <ja>レベル</ja>
+      <de>Level</de>
+      <it>Livello</it>
+      <es>Nivel</es>
+      <pt>Nível</pt>
+      <zh>级别</zh>
+      <fr>Niveau</fr>
+      <ko>레벨</ko>
+      </Line>
+      
+      <Line text="Shadows">
+	  <en>Shadows</en>
+	  <ru>Тени</ru>
+      <ja>影</ja>
+      <de>Schatten</de>
+      <it>Ombre</it>
+      <es>Sombras</es>
+      <pt>Sombras</pt>
+      <zh>影子</zh>
+      <fr>Ombres</fr>
+      <ko>그림자</ko>
+      </Line>
+      
+      <Line text="Survival">
+	  <en>Survival</en>
+	  <ru>На выживание</ru>
+      <ja>サバイバルモード</ja>
+      <de>Überlebensmodus</de>
+      <it>Sopravvivenza</it>
+      <es>Sobrevivencia</es>
+      <pt>Sobrevivência</pt>
+      <zh>生存</zh>
+      <fr>Survie</fr>
+      <ko>생존</ko>
+      </Line>
+      
+      <Line text="TimeChallenge">
+	  <en>Time Challenge</en>
+	  <ru>На время</ru>
+      <ja>時間と競争する</ja>
+      <de>Zeitmodus</de>
+      <it>A tempo</it>
+      <es>Desafío de tiempo</es>
+      <pt>Desafio de tempo</pt>
+      <zh>时间挑战</zh>
+      <fr>Temps Limité</fr>
+      <ko>시간 도전</ko>
+      </Line>
+      
+      <Line text="WantToExit">
+      <en>Do you really want to quit?</en>
+	  <ru>Выйти из приложения?</ru>
+      <ja>本当に終了しますか？</ja>
+      <de>Wollen Sie wirklich beenden?</de>
+      <it>Veramente vuoi uscire?</it>
+      <es>¿De verdad quieres salir?</es>
+      <pt>Você realmente deseja sair?</pt>
+      <zh>你真的要退出吗？</zh>
+      <fr>Quitter?</fr>
+      <ko>종료하겠습니까?</ko>
+      </Line>
+      
+      <Line text="ShowOffer">
+      <en>Show offer</en>
+	  <ru>Показывать рекламу</ru>
+      <ja>広告を表示する</ja>
+      <de>Werbung anzeigen</de>
+      <it>Mostra l'offerta</it>
+      <es>Mostrar oferta</es>
+      <pt>Mostrar oferta</pt>
+      <zh>展会要约</zh>
+      <fr>Afficher l'offre</fr>
+      <ko>광고 표시</ko>
+      </Line>
+      
+      <Line text="reward">
+      <ru>Награда</ru>
+      <en>Reward</en>
+      <de>Belohnung</de>
+      <it>Premio</it>
+      <es>Premio</es>
+      <pt>Prêmio</pt>
+      <fr>Récompense</fr>
+      <zh>奖励</zh>
+      <ja>賞</ja>
+      <ko>보상</ko>
+      </Line>
+      
+	  <Line text="retention_message">
+	  <ru>Спасибо, что вернулись!</ru>
+	  <en>Thanks for coming back!</en>
+	  <de>Vielen Dank, dass Sie zurückgekommen sind!</de>
+	  <it>Grazie di essere tornato!</it>
+	  <es>¡Gracias por volver!</es>
+	  <pt>Origado pelo seu retorno!</pt>
+	  <fr>Merci pour revenir!</fr>
+	  <zh>谢谢你回来！</zh>
+	  <ja>戻ってくれてありがとうございます！</ja>
+	  <ko>돌아오셔서 감사합니다!</ko>
+	  </Line>
+		
+	 <Line text="Restart">
+	  <en>Restart</en>
+	  <ru>Переиграть</ru>
+      <ja>リプレイ</ja>
+      <de>Wieder spielen</de>
+      <it>Rigioca</it>
+      <es>Volver a empezar</es>
+      <pt>Reiniciar</pt>
+      <zh>再玩一边</zh>
+      <fr>Rejouer</fr>
+      <ko>다시 시작</ko>
+      </Line>
+        
+       <Line text="NextLevel">
+  	 <en>Next level</en>
+  	 <ru>Cледующий уровень</ru>
+      <ja> 次のレベル</ja>
+      <de>Nächste Stufe</de>
+      <it>Prossimo livello</it>
+      <es>Siguiente nivel</es>
+      <pt>Próximo nível</pt>
+      <zh>一個新的水平</zh>
+      <fr>Niveau suivant</fr>
+      <ko>다음 레벨</ko>
+      </Line> 
+      
+       <Line text="Music">
+  	 <en>Music</en>
+  	 <ru>Музыка</ru>
+      <ja>音楽</ja>
+      <de>Musik</de>
+      <it>Musica</it>
+      <es>Música</es>
+      <pt>Música</pt>
+      <zh>音乐</zh>
+      <fr>Musique</fr>
+      <ko>음악</ko>
+      </Line>
+      
+       <Line text="Sound">
+  	 <en>Sound</en>
+  	 <ru>Звук</ru>
+      <ja>サウンド</ja>
+      <de>Ton</de>
+      <it>Suono</it>
+      <es>Sonido</es>
+      <pt>Som</pt>
+      <zh>声音</zh>
+      <fr>Son</fr>
+      <ko>음악</ko>
+      </Line>
+      
+        <Line text="Volume">
+  	 <en>Volume</en>
+  	 <ru>Громкость</ru>
+      <ja>ヴォリューム</ja>
+      <de>Volumen</de>
+      <it>Volume</it>
+      <es>Volumen</es>
+      <pt>Volume</pt>
+      <zh>量</zh>
+      <fr>Volume</fr>
+      <ko>체적</ko>
+      </Line>
+        
+      <Line text="Graphics">
+  	 <en>Graphics</en>
+  	 <ru>Графика</ru>
+      <ja>グラフィックス</ja>
+      <de>Graphics</de>
+      <it>Grafica</it>
+      <es>Gráficos</es>
+      <pt>Gráfico</pt>
+      <zh>图像</zh>
+      <fr>Graphiques</fr>
+      <ko>그래픽</ko>
+      </Line>
+        
+        
+         <Line text="Windowed">
+  	 <en>Windowed</en>
+  	 <ru>Оконный режим</ru>
+      <ja>ウィンドウモード</ja>
+      <de>Windowed</de>
+      <it>Finestrato</it>
+      <es>Em janela</es>
+      <pt>Em janela</pt>
+      <zh>加窗</zh>
+      <fr>Fenêtré</fr>
+      <ko>윈도우 된</ko>
+      </Line>
+      
+     
+      
+       <Line text="Fastest">
+  	 <en>Fastest</en>
+  	 <ru>Очень простая</ru>
+      <ja>非常に簡単</ja>
+      <de>Schnellste</de>
+      <it>Semplicissima</it>
+      <es>Más rápido</es>
+      <pt>Mais rápido</pt>
+      <zh>最快</zh>
+      <fr>Simples</fr>
+      <ko>빠른</ko>
+      </Line>
+      
+       <Line text="Fast">
+  	 <en>Fast</en>
+  	 <ru>Упрощенная</ru>
+      <ja>簡単</ja>
+      <de>Schnelle</de>
+      <it>Semplificata</it>
+      <es>Rápido</es>
+      <pt>Rápido</pt>
+      <zh>快速</zh>
+      <fr>Simplifiés</fr>
+      <ko>아름답고</ko>
+      </Line>
+      
+       <Line text="Simple">
+  	 <en>Simple</en>
+  	 <ru>Нормальная</ru>
+      <ja>普通</ja>
+      <de>Einfache</de>
+      <it>Normale</it>
+      <es>Simple</es>
+      <pt>Simples</pt>
+      <zh>简单</zh>
+      <fr>Normaux</fr>
+      <ko>아름답고</ko>
+      </Line>
+      
+       <Line text="Good">
+  	 <en>Good</en>
+  	 <ru>Хорошая</ru>
+      <ja>良い</ja>
+      <de>Gute</de>
+      <it>Buona</it>
+      <es>Bueno</es>
+      <pt>Bom</pt>
+      <zh>良好</zh>
+      <fr>Bons</fr>
+      <ko>아름답고</ko>
+      </Line>
+      
+       <Line text="Beautiful">
+  	 <en>Beautiful</en>
+  	 <ru>Отличная</ru>
+      <ja>きれい</ja>
+      <de>Schöne</de>
+      <it>Ottima</it>
+      <es>Hermoso</es>
+      <pt>Bonito</pt>
+      <zh>非常に良い</zh>
+      <fr>Beaux</fr>
+      <ko>아름답고</ko>
+      </Line>
+      
+       <Line text="Fantastic">
+  	 <en>Fantastic</en>
+  	 <ru>Потрясающая</ru>
+      <ja>きれい</ja>
+      <de>Fantastische</de>
+      <it>Fantastica</it>
+      <es>Fantástico</es>
+      <pt>Fantástico</pt>
+      <zh>素晴らしい</zh>
+      <fr>Fantastiques</fr>
+      <ko>아름답고</ko>
+      </Line>
+      
+      <Line text="Resolution">
+  	 <en>Resolution</en>
+  	 <ru>Разрешение</ru>
+      <ja>解決</ja>
+      <de>Auflösung</de>
+      <it>Risoluzione</it>
+      <es>Resolución</es>
+      <pt>Resolução</pt>
+      <zh>解析度</zh>
+      <fr>Résolution</fr>
+      <ko>결의</ko>
+      </Line>
+      
+       <Line text="Quality level">
+  	 <en>Graphics quality</en>
+  	 <ru>Качество графики</ru>
+      <ja>画質</ja>
+      <de>Grafiken</de>
+      <it>Grafica</it>
+      <es>Gráficos</es>
+      <pt>Gráficos</pt>
+      <zh>图形</zh>
+      <fr>Niveau de qualité</fr>
+      <ko>그래픽 품질</ko>
+      </Line>
+        
+        
+       <Line text="Difficulty">
+  	 <en>Choose the difficulty</en>
+  	 <ru>Выбор сложности</ru>
+      <ja>ディフィカルティ選択</ja>
+      <de>Wählen Sie die Schwierigkeit</de>
+      <it>Seleziona difficoltà</it>
+      <es>Selección de dificultad</es>
+      <pt>Seleção de dificuldade</pt>
+      <zh>选择难度</zh>
+      <fr>Choisissez la difficulté</fr>
+      <ko>난이도 선택</ko>
+      </Line>
+      
+        <Line text="Easy">
+  	 <en>Easy</en>
+  	 <ru>Легко</ru>
+      <ja>簡単</ja>
+      <de>Leicht</de>
+      <it>Facile</it>
+      <es>Fácil</es>
+      <pt>Fácil</pt>
+      <zh>简单</zh>
+      <fr>Facile</fr>
+      <ko>쉽게</ko>
+      </Line>
+      
+         <Line text="Medium">
+  	 <en>Medium</en>
+  	 <ru>Средний</ru>
+      <ja>平均</ja>
+      <de>Mittel</de>
+      <it>Medio</it>
+      <es>Medio</es>
+      <pt>Médio</pt>
+      <zh>平均</zh>
+      <fr>Moyen</fr>
+      <ko>중간</ko>
+      </Line>
+      
+        <Line text="Hard">
+  	 <en>Hard</en>
+  	 <ru>Сложно</ru>
+      <ja>困難</ja>
+      <de>Schwierig</de>
+      <it>Difficile</it>
+      <es>Difícil</es>
+      <pt>Difícil</pt>
+      <zh>难</zh>
+      <fr>Difficile</fr>
+      <ko>어렵게</ko>
+      </Line>
+      
+         <Line text="Apply">
+  	 <en>Apply</en>
+  	 <ru>Применить</ru>
+      <ja>困難</ja>
+      <de>Übernehmen</de>
+      <it>Applica</it>
+      <es>Aplicar</es>
+      <pt>Aplicar</pt>
+      <zh>使用</zh>
+      <fr>Appliquer</fr>
+      <ko>적용합니다</ko>
+      </Line>
+        
+  </Text>
+
+</body>

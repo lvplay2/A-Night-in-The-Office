@@ -1,0 +1,640 @@
+<body>
+  <Languages>
+    <English tag="en"/>
+    <Russian tag="ru"/>
+  </Languages>
+
+  <Text>
+    <Line text="Example">
+      <en>Example</en>
+      <ru>Example</ru>
+    </Line>
+    
+    <Line text="Please, rate the game if you like it!">
+      <en>Please, rate the game if you like it!</en>
+      <ru>Пожалуйста, оцените игру, если она вам понравилась!</ru>
+    </Line>
+    
+    <Line text="Remind me later">
+      <en>Remind me later</en>
+      <ru>Напомнить позже</ru>
+    </Line>
+    <Line text="No, thank you">
+      <en>No, thank you</en>
+      <ru>Нет, спасибо</ru>
+    </Line>
+    <Line text="RATE!">
+      <en>RATE!</en>
+      <ru>Оценить!</ru>
+    </Line>
+
+    <Line text="Progress will be lost. Are you sure?">
+      <en>Progress will be lost. Are you sure?</en>
+      <ru>Прогресс будет потерян. Вы уверены?</ru>
+    </Line>
+    
+    <Line text="Yes">
+      <en>Yes</en>
+      <ru>Да</ru>
+    </Line>
+    
+    <Line text="No">
+      <en>No</en>
+      <ru>Нет</ru>
+    </Line>
+    
+    <Line text="When light flickers you must hide.">
+      <en>When light flickers you must hide.</en>
+      <ru>Ты должен прятаться, когда фонарик начинает мигать!</ru>
+    </Line>
+    
+    <Line text="Not now.">
+      <en>Not now.</en>
+      <ru>Не сейчас.</ru>
+    </Line>
+    
+    <Line text="Door Locked. Find a key.">
+      <en>Door Locked. Find a key.</en>
+      <ru>Дверь закрыта. Найдите ключ.</ru>
+    </Line>
+
+    <Line text="Door Locked.">
+      <en>Door Locked.</en>
+      <ru>Дверь закрыта.</ru>
+    </Line>
+    
+    <Line text="TO-DO LIST">
+      <en>TO-DO LIST</en>
+      <ru>СПИСОК ЗАДАЧ</ru>s
+    </Line>
+
+
+    <Line text="Take money in office.">
+      <en>Take money in office.</en>
+      <ru>Заберите деньги в кабинете.</ru>
+    </Line>
+
+    <Line text="Take money from cash machine.">
+      <en>Take money from cash machine.</en>
+      <ru>Заберите деньги из кассы.</ru>
+    </Line>
+    
+    <Line text="Try to find money in the toilet.">
+      <en>Try to find money in the toilet.</en>
+      <ru>Поищите деньги в туалете.</ru>
+    </Line>
+
+    <Line text="Find the key to the toilet. It is near.">
+      <en>Find the key to the toilet. It is near.</en>
+      <ru>Найдите ключ в туалет. Он где-то рядом!</ru>
+    </Line>
+
+    <Line text="Pack burgers.">
+      <en>Pack burgers.</en>
+      <ru>Соберите бургеры.</ru>
+    </Line>
+    
+    <Line text="Lock everything and go home.">
+      <en>Lock everything and go home.</en>
+      <ru>Заприте все и идите домой.</ru>
+    </Line>
+    
+    <Line text="Find a key in the basement.">
+      <en>Find a key in the basement.</en>
+      <ru>Найдите ключ в подвале.</ru>
+    </Line>
+
+
+
+    
+
+
+    <Line text="Play as
+killer">
+      <en>Play as
+killer</en>
+      <ru>Играть
+убийцей</ru>
+    </Line>
+    
+    <Line text="Play as
+survivor">
+      <en>Play as
+survivor</en>
+      <ru>Играть
+выжившим</ru>
+    </Line>
+    
+    <Line text="Coming soon!">
+      <en>Coming soon!</en>
+      <ru>Скоро!</ru>
+    </Line>
+
+      <Line text="Bank:">
+        <en>Bank:</en>
+        <ru>Банк:</ru>
+      </Line>
+    
+    <Line text="Tap to continue">
+      <en>Tap to continue</en>
+      <ru>Нажмите, чтобы продолжить</ru>
+    </Line>
+
+    <Line text="Finding match">
+      <en>Finding match</en>
+      <ru>Поиск игры</ru>
+    </Line>
+
+    <Line text="Sorry, connection was lost! You have been disconnected!">
+      <en>Sorry, connection was lost! You have been disconnected!</en>
+      <ru>Извините, соединение потеряно! Вы были отключены!</ru>
+    </Line>
+
+    <Line text="Ability slot">
+      <en>Ability slot</en>
+      <ru>Ячейка для способности</ru>
+    </Line>
+    
+    <Line text="You can purchase a slot for new ability">
+      <en>You can purchase a slot for new ability</en>
+      <ru>Вы можете преобрести ячейку для дополнительных способностей</ru>
+    </Line>
+
+    <Line text="Sprint Burst">
+      <en>Sprint Burst</en>
+      <ru>Спринт</ru>
+    </Line>
+
+    <Line text="Sprint Burst Level 1">
+      <en>Sprint Burst Level 1</en>
+      <ru>Спринт Уровень 1</ru>
+    </Line>
+
+    <Line text="Sprint Burst Level 2">
+      <en>Sprint Burst Level 2</en>
+      <ru>Спринт Уровень 2</ru>
+    </Line>
+
+    <Line text="Sprint Burst Level 3">
+      <en>Sprint Burst Level 3</en>
+      <ru>Спринт Уровень 3</ru>
+    </Line>
+
+	<Line text="Lightweight">
+      <en>Lightweight</en>
+      <ru>Легкий шаг</ru>
+    </Line>
+    
+    <Line text="Lightweight Level 1">
+      <en>Lightweight Level 1</en>
+      <ru>Легкий шаг уровень 1</ru>
+    </Line>
+
+    <Line text="Lightweight Level 2">
+      <en>Lightweight Level 2</en>
+      <ru>Легкий шаг уровень 2</ru>
+    </Line>
+
+    <Line text="Lightweight Level 3">
+      <en>Lightweight Level 3</en>
+      <ru>Легкий шаг уровень 3</ru>
+    </Line>
+
+	<Line text="Bait">
+      <en>Bait</en>
+      <ru>Приманка</ru>
+    </Line>
+
+    <Line text="Bait Level 1">
+      <en>Bait Level 1</en>
+      <ru>Приманка уровень 1</ru>
+    </Line>
+
+    <Line text="Bait Level 2">
+      <en>Bait Level 2</en>
+      <ru>Приманка уровень 2</ru>
+    </Line>
+
+    <Line text="Bait Level 3">
+      <en>Bait Level 3</en>
+      <ru>Приманка уровень 3</ru>
+    </Line>
+
+    <Line text="Goosebumps">
+      <en>Goosebumps</en>
+      <ru>Мурашки</ru>
+    </Line>
+
+    <Line text="Goosebumps Level 1">
+      <en>Goosebumps Level 1</en>
+      <ru>Мурашки уровень 1</ru>
+    </Line>
+
+    <Line text="Goosebumps Level 2">
+      <en>Goosebumps Level 2</en>
+      <ru>Мурашки уровень 2</ru>
+    </Line>
+
+    <Line text="Goosebumps Level 3">
+      <en>Goosebumps Level 3</en>
+      <ru>Мурашки уровень 3</ru>
+    </Line>
+
+	<Line text="Adrenaline">
+      <en>Adrenaline</en>
+      <ru>Адреналин</ru>
+    </Line>
+
+    <Line text="Adrenaline Level 1">
+      <en>Adrenaline Level 1</en>
+      <ru>Адреналин уровень 1</ru>
+    </Line>
+
+    <Line text="Adrenaline Level 2">
+      <en>Adrenaline Level 2</en>
+      <ru>Адреналин уровень 2</ru>
+    </Line>
+
+    <Line text="Adrenaline Level 3">
+      <en>Adrenaline Level 3</en>
+      <ru>Адреналин уровень 3</ru>
+    </Line>
+
+	<Line text="No One Left Behind">
+      <en>No One Left Behind</en>
+      <ru>Никто не забыт</ru>
+    </Line>
+
+    <Line text="No One Left Behind Level 1">
+      <en>No One Left Behind Level 1</en>
+      <ru>Никто не забыт уровень 1</ru>
+    </Line>
+
+    <Line text="No One Left Behind Level 2">
+      <en>No One Left Behind Level 2</en>
+      <ru>Никто не забыт уровень 2</ru>
+    </Line>
+
+    <Line text="No One Left Behind Level 3">
+      <en>No One Left Behind Level 3</en>
+      <ru>Никто не забыт уровень 3</ru>
+    </Line>
+
+	<Line text="Leader">
+      <en>Leader</en>
+      <ru>Лидер</ru>
+    </Line>
+
+    <Line text="Leader Level 1">
+      <en>Leader Level 1</en>
+      <ru>Лидер уровень 1</ru>
+    </Line>
+
+    <Line text="Leader Level 2">
+      <en>Leader Level 2</en>
+      <ru>Лидер уровень 2</ru>
+    </Line>
+
+    <Line text="Leader Level 3">
+      <en>Leader Level 3</en>
+      <ru>Лидер уровень 3</ru>
+    </Line>
+
+	<Line text="Self Care">
+      <en>Self Care</en>
+      <ru>Самолечение</ru>
+    </Line>
+
+    <Line text="Self Care Level 1">
+      <en>Self Care Level 1</en>
+      <ru>Самолечение уровень 1</ru>
+    </Line>
+
+    <Line text="Self Care Level 2">
+      <en>Self Care Level 2</en>
+      <ru>Самолечение уровень 2</ru>
+    </Line>
+
+    <Line text="Self Care Level 3">
+      <en>Self Care Level 3</en>
+      <ru>Самолечение уровень 3</ru>
+    </Line>
+
+	<Line text="One More Chance">
+      <en>One More Chance</en>
+      <ru>Еще один шанс</ru>
+    </Line>
+
+    <Line text="One More Chance Level 1">
+      <en>One More Chance Level 1</en>
+      <ru>Еще один шанс уровень 1</ru>
+    </Line>
+
+    <Line text="One More Chance Level 2">
+      <en>One More Chance Level 2</en>
+      <ru>Еще один шанс уровень 2</ru>
+    </Line>
+
+    <Line text="One More Chance Level 3">
+      <en>One More Chance Level 3</en>
+      <ru>Еще один шанс уровень 3</ru>
+    </Line>
+
+	<Line text="Last Man Standing">
+      <en>Last Man Standing</en>
+      <ru>Последний герой</ru>
+    </Line>
+
+    <Line text="Last Man Standing Level 1">
+      <en>Last Man Standing Level 1</en>
+      <ru>Последний герой уровень 1</ru>
+    </Line>
+
+    <Line text="Last Man Standing Level 2">
+      <en>Last Man Standing Level 2</en>
+      <ru>Последний герой уровень 2</ru>
+    </Line>
+
+    <Line text="Last Man Standing Level 3">
+      <en>Last Man Standing Level 3</en>
+      <ru>Последний герой уровень 3</ru>
+    </Line>
+
+	<Line text="Your movement speed increases up to 150% on 2/3/4 seconds. You can use this ability every 60/50/40 seconds.">
+      <en>Your movement speed increases up to 150% on 2/3/4 seconds. You can use this ability every 60/50/40 seconds.</en>
+      <ru>Скорость бега увеличивается на 150% на 2/3/4 секунды. Время восстановления 60/50/40 секунд.</ru>
+    </Line>
+
+	<Line text="You run soft and silent. Your tracks will dissapear faster on 1/2/3 seconds.">
+      <en>You run soft and silent. Your tracks will dissapear faster on 1/2/3 seconds.</en>
+      <ru>Вы легко ступаете по земле, поэтому ваши следы исчезают быстрее на 1/2/3 секунды. </ru>
+    </Line>
+
+	<Line text="You are able to distract the killer by throwing a bite which will explode in 3 seconds. You can use this ability every 50/40/30 seconds.">
+      <en>You are able to distract the killer by throwing a bite which will explode in 3 seconds. You can use this ability every 50/40/30 seconds.</en>
+      <ru>Вы способны отвлечь убийцу, кинув шумиху, которая взорвется через 3 секунды. Время восстановления 50/40/30 секунд.</ru>
+    </Line>
+
+	<Line text="You literally feel the killer is watching in your direction or when killer stands in 10m/20m/30m radius around you. This ability can be triggered every 60/45/30 seconds.">
+      <en>You literally feel the killer is watching in your direction or when killer stands in 10m/20m/30m radius around you. This ability can be triggered every 60/45/30 seconds.</en>
+      <ru>Вы чувствуете взгляд убийцы на себе в радиусе 10м/20м/30м. Время восстановления 60/45/30 секунд.</ru>
+    </Line>
+
+	<Line text="After all generators are up, your movement speed increases up to 150% on 2/3/4 seconds.">
+      <en>After all generators are up, your movement speed increases up to 150% on 2/3/4 seconds.</en>
+      <ru>После того, как все генераторы заведены, скорость передвижения увеличивается на 150% на 2/3/4 секунды.</ru>
+    </Line>
+
+	<Line text="After all generators are up, you recieve 150%/200%/300% more points by saving your teammates.">
+      <en>After all generators are up, you recieve 150%/200%/300% more points by saving your teammates.</en>
+      <ru>После того, как все генераторы заведены, вы получает в 1,5/2/3 раза больше очков за спасение товарищей.</ru>
+    </Line>
+
+	<Line text="Team players always get more than lone survivors. Repair speed increases on 5%/10%/15% when somebody is helping you.">
+      <en>Team players always get more than lone survivors. Repair speed increases on 5%/10%/15% when somebody is helping you.</en>
+      <ru>Командные игроки всегда достигают большего, чем одиночки. Скорость починки генераторов увеличивается, если вам помогает кто-то еще на 5%/10%/15%.</ru>
+    </Line>
+
+	<Line text="You perfectly know first aid so you can help yourself with self care. You can heal yourself at the 30%/40%/50% normal healing speed. ">
+      <en>You perfectly know first aid so you can help yourself with self care. You can heal yourself at the 30%/40%/50% normal healing speed. </en>
+      <ru>Вы отлично знаете первую помощь и можете залатать себя самостоятельно. Скорость самолечения составляет 30%/40%/50% от скорости нормального лечения.</ru>
+    </Line>
+
+	<Line text="You can deal with the pain. You can jump off the hook by yourself with 30%/75%/100% possibility. This ability can be triggered only once per match. ">
+      <en>You can deal with the pain. You can jump off the hook by yourself with 30%/75%/100% possibility. This ability can be triggered only once per match. </en>
+      <ru>Вы ловкий и можете переносить боль. Благодаря этому вы можете извернуться и спрыгнуть с крюка самостоятельно. С каждым уровнем увеличивается шанс на успех. Такую возможность можно использовать только один раз за матч.</ru>
+    </Line>
+
+	<Line text="If you are the last person remaining, your repairing and opening the gates speed increases up to 50%/75%/100%.">
+      <en>If you are the last person remaining, your repairing and opening the gates speed increases up to 50%/75%/100%.</en>
+      <ru>Оставшись последним выжившим скорость ремонта и открытия ворот увеличивается на 50%/75%/100%.</ru>
+    </Line>
+
+	<Line text="Bloodlust">
+      <en>Bloodlust</en>
+      <ru>Жажда крови</ru>
+    </Line>
+    
+    <Line text="Bloodlust Level 1">
+      <en>Bloodlust Level 1</en>
+      <ru>Жажда крови уровень 1</ru>
+    </Line>
+
+    <Line text="Bloodlust Level 2">
+      <en>Bloodlust Level 2</en>
+      <ru>Жажда крови уровень 2</ru>
+    </Line>
+
+    <Line text="Bloodlust Level 3">
+      <en>Bloodlust Level 3</en>
+      <ru>Жажда крови уровень 3</ru>
+    </Line>
+
+	<Line text="No Escape">
+      <en>No Escape</en>
+      <ru>Выхода нет</ru>
+    </Line>
+
+    <Line text="No Escape Level 1">
+      <en>No Escape Level 1</en>
+      <ru>Выхода нет уровень 1</ru>
+    </Line>
+
+    <Line text="No Escape Level 2">
+      <en>No Escape Level 2</en>
+      <ru>Выхода нет уровень 2</ru>
+    </Line>
+
+    <Line text="No Escape Level 3">
+      <en>No Escape Level 3</en>
+      <ru>Выхода нет уровень 3</ru>
+    </Line>
+
+	<Line text="I See You">
+      <en>I See You</en>
+      <ru>Я тебя вижу</ru>
+    </Line>
+
+    <Line text="I See You Level 1">
+      <en>I See You Level 1</en>
+      <ru>Я тебя вижу уровень 1</ru>
+    </Line>
+
+    <Line text="I See You Level 2">
+      <en>I See You Level 2</en>
+      <ru>Я тебя вижу уровень 2</ru>
+    </Line>
+
+    <Line text="I See You Level 3">
+      <en>I See You Level 3</en>
+      <ru>Я тебя вижу уровень 3</ru>
+    </Line>
+
+	<Line text="Dreadful">
+      <en>Dreadful</en>
+      <ru>Внушающий ужас</ru>
+    </Line>
+
+    <Line text="Dreadful Level 1">
+      <en>Dreadful Level 1</en>
+      <ru>Внушающий ужас уровень 1</ru>
+    </Line>
+
+    <Line text="Dreadful Level 2">
+      <en>Dreadful Level 2</en>
+      <ru>Внушающий ужас уровень 2</ru>
+    </Line>
+
+    <Line text="Dreadful Level 3">
+      <en>Dreadful Level 3</en>
+      <ru>Внушающий ужас уровень 3</ru>
+    </Line>
+
+	<Line text="Hunter">
+      <en>Hunter</en>
+      <ru>Охотник</ru>
+    </Line>
+
+    <Line text="Hunter Level 1">
+      <en>Hunter Level 1</en>
+      <ru>Охотник уровень 1</ru>
+    </Line>
+
+    <Line text="Hunter Level 2">
+      <en>Hunter Level 2</en>
+      <ru>Охотник уровень 2</ru>
+    </Line>
+
+    <Line text="Hunter Level 3">
+      <en>Hunter Level 3</en>
+      <ru>Охотник уровень 3</ru>
+    </Line>
+
+	<Line text="Blood Phobia">
+      <en>Blood Phobia</en>
+      <ru>Боязнь крови</ru>
+    </Line>
+
+    <Line text="Blood Phobia Level 1">
+      <en>Blood Phobia Level 1</en>
+      <ru>Боязнь крови уровень 1</ru>
+    </Line>
+
+    <Line text="Blood Phobia Level 2">
+      <en>Blood Phobia Level 2</en>
+      <ru>Боязнь крови уровень 2</ru>
+    </Line>
+
+    <Line text="Blood Phobia Level 3">
+      <en>Blood Phobia Level 3</en>
+      <ru>Боязнь крови уровень 3</ru>
+    </Line>
+
+    <Line text="Bloody Wounds">
+      <en>Bloody Wounds</en>
+      <ru>Рваные раны</ru>
+    </Line>
+
+    <Line text="Bloody Wounds Level 1">
+      <en>Bloody Wounds Level 1</en>
+      <ru>Рваные раны уровень 1</ru>
+    </Line>
+
+    <Line text="Bloody Wounds Level 2">
+      <en>Bloody Wounds Level 2</en>
+      <ru>Рваные раны уровень 2</ru>
+    </Line>
+
+    <Line text="Bloody Wounds Level 3">
+      <en>Bloody Wounds Level 3</en>
+      <ru>Рваные раны уровень 3</ru>
+    </Line>
+
+    <Line text="You love to chase your victim. You receive 5%/10%/15% more rage points when you are chasing the survivor.">
+      <en>You love to chase your victim. You receive 5%/10%/15% more rage points when you are chasing the survivor.</en>
+      <ru>Чувство погони только раззадоривает вас. Вы получаете на 5%/10%/15% больше очков ярости во время погони за выжившим. </ru>
+    </Line>
+
+    <Line text="When all generators are up, you become furious and are able to put survivor into the dying state by one hit. This ability has 2/3/4 charges. ">
+      <en>When all generators are up, you become furious and are able to put survivor into the dying state by one hit. This ability has 2/3/4 charges. </en>
+      <ru>После того, как все генераторы заведены, вы впадаете в ярость и можете одним ударом уложить выжившего на землю. Способность имеет 2/3/4 зарядов.</ru>
+    </Line>
+
+    <Line text="You see survivors who are healing or being healed through obstacles within 15m/20m/30m radius.">
+      <en>You see survivors who are healing or being healed through obstacles within 15m/20m/30m radius.</en>
+      <ru>Вы видите выживших через препятствия, когда они лечатся или лечат их в радиусе 15/20/30м.</ru>
+    </Line>
+
+    <Line text="You inspire great fear. Your terror radius greatly increases, but you receive 150%/200%/250% more points. ">
+      <en>You inspire great fear. Your terror radius greatly increases, but you receive 150%/200%/250% more points. </en>
+      <ru>Вы внушаете неестественный страх. Радиус ужаса увеличивается в 2 раза, но за это вы получаете в 1,5/2/2,5 раза больше очков за матч.</ru>
+    </Line>
+
+    <Line text="You are a skilled killer and you see the location of survivor in dying state 15m/30m/45m radius.">
+      <en>You are a skilled killer and you see the location of survivor in dying state 15m/30m/45m radius.</en>
+      <ru>Вы - опытный убийца и поэтому наверняка поймете, где лежит умирающий выживший в радиусе 15/30/45м.</ru>
+    </Line>
+
+    <Line text="Many afraid of the sight of blood, but not you. The speed of repairing and healing of every survivor decreases on 5%/10%/15% for every injured or hooked survivor.">
+      <en>Many afraid of the sight of blood, but not you. The speed of repairing and healing of every survivor decreases on 5%/10%/15% for every injured or hooked survivor.</en>
+      <ru>Многие боятся вида крови, но не вы. Скорость ремонта и лечения у всех выживших уменьшается на 5%/10%/15% за каждого раненного или находящегося на крюке выжившего.</ru>
+    </Line>
+
+    <Line text="You know where to hit to hurt the most. Injured survivors leave 10%/15%/20% more blood spills.">
+      <en>You know where to hit to hurt the most. Injured survivors leave 10%/15%/20% more blood spills.</en>
+      <ru>Вы точно знаете, куда нужно бить. Раненные выжившие оставляют на 10%/15%/20% больше крови за собой. </ru>
+    </Line>
+    
+    <Line text="Butcher">
+      <en>Butcher</en>
+      <ru>Мясник</ru>
+    </Line>
+    
+    <Line text="Jason Smith was raised in a dysfunctional family and was familiar with cruelty in early childhood. He got his first job in the butchery and he faced death there for the first time. He was fascinated by the murder. He liked the power and adrenaline rush when he was killing animals. Later he got tired of killing animals, because there was no more pleasure. And this is how new type of hunt begins for the Butcher...">
+      <en>Jason Smith was raised in a dysfunctional family and was familiar with cruelty in early childhood. He got his first job in the butchery and he faced death there for the first time. He was fascinated by the murder. He liked the power and adrenaline rush when he was killing animals. Later he got tired of killing animals, because there was no more pleasure. And this is how new type of hunt begins for the Butcher...</en>
+      <ru>Джейсон Смит рос в неблагополучной семье и с детства был знаком с жестокостью. Свою первую работу получил на скотобойне, где и столкнулся со смертью. Убийство его завораживало. Он обожал эту власть и выброс адреналина в кровь, когда убивал животное. Вскоре ему надоело убивать животных, он просто больше не получал удовольствия. Для Мясника настало время новой охоты...</ru>
+    </Line>
+    
+    <Line text="Harry Horn">
+      <en>Harry Horn</en>
+      <ru>Гарри Горн</ru>
+    </Line>
+    
+    <Line text="Harry Horn is a successful businessman, very sociable and kind person. But, as always, there is something strange in this kind of people. Harry likes to go for a walk at night and alone, in order nothing would disturb him from his thoughts. One day he went on his regular night walk and just got missed as if he disappeared into thin air...">
+      <en>Harry Horn is a successful businessman, very sociable and kind person. But, as always, there is something strange in this kind of people. Harry likes to go for a walk at night and alone, in order nothing would disturb him from his thoughts. One day he went on his regular night walk and just got missed as if he disappeared into thin air...</en>
+      <ru>Гарри Горн успешный бизнесмен, очень общительный и добрый человек. Но, как и всегда, есть в таких людях что-то странное, непонятное. Гарри очень любит выходить на прогулку ночью и в одиночестве, чтобы ничто ему не мешало и не отвлекало. Однажды, отправившись на свою регулярную ночную прогулку, он просто пропал, будто растворился в воздухе…</ru>
+    </Line>
+    
+    <Line text="Edward Lawn">
+      <en>Edward Lawn</en>
+      <ru>Эдвард Лоун</ru>
+    </Line>
+    
+    <Line text="Edward Lawn works as a vet. He is an ordinary man with a loving wife and two little kids. He loves his work and always ready to help animals at any time. A month ago in the middle of the night he received a call. He was asked to come to his clinic to make an urgent operation. Edward was ready in a moment, came to his car and went to the clinic. He was never seen again...">
+      <en>Edward Lawn works as a vet. He is an ordinary man with a loving wife and two little kids. He loves his work and always ready to help animals at any time. A month ago in the middle of the night he received a call. He was asked to come to his clinic to make an urgent operation. Edward was ready in a moment, came to his car and went to the clinic. He was never seen again...</en>
+      <ru>Эдвард Лоун обычный ветеринар. У него есть любящая жена и двое детей. Он фанат своей работы и готов помогать животным в любое время дня и ночи. Месяц назад посреди ночи в его спальне раздался звонок. Его вызывали в клинику на срочную операцию. Эдвард незамедлительно собрался, сел в свою машину и уехал. Больше его никто не видел…</ru>
+    </Line>
+    
+    <Line text="Alice Moore">
+      <en>Alice Moore</en>
+      <ru>Элис Мур</ru>
+    </Line>
+    
+    <Line text="Alice Moore is a typical college party star and the most popular girl among guys. But behind wild and crazy behaviour there is bright and interesting person. Alice knows that nerd girl won’t be popular among boys but she loves attention so much. In the first day of summer holidays Alice went to a party at her friends, but no one have seen her there...">
+      <en>Alice Moore is a typical college party star and the most popular girl among guys. But behind wild and crazy behaviour there is bright and interesting person. Alice knows that nerd girl won’t be popular among boys but she loves attention so much. In the first day of summer holidays Alice went to a party at her friends, but no one have seen her there...</en>
+      <ru>Элис Мур типичная звезда школьных вечеринок и самая популярная девчонка среди парней. За диким и безумным поведением скрывается очень яркая и интересная личность. Но Элис знает, что девчонка-ботаник не будет популярна среди парней, а она обожает внимание. В первый день летних каникул Элис отправилась на праздничную вечеринку к друзьям, но до места так и не дошла…</ru>
+    </Line>
+    
+    <Line text="Kate Darkwood">
+      <en>Kate Darkwood</en>
+      <ru>Кейт Дарквуд</ru>
+    </Line>
+    
+    <Line text="Kate Darkwood works as a general manager in a small roadside cafe. She doesn’t like her job, but it is still better to have a well-paid job than to have no job at all. Nowadays it is very hard to find any job in her hometown. One evening she closed the cafe and stayed in the office to count the receipts. The next day she didn’t come to work...">
+      <en>Kate Darkwood works as a general manager in a small roadside cafe. She doesn’t like her job, but it is still better to have a well-paid job than to have no job at all. Nowadays it is very hard to find any job in her hometown. One evening she closed the cafe and stayed in the office to count the receipts. The next day she didn’t come to work...</en>
+      <ru>Кейт Дарквуд работает главным менеджером в небольшом придорожном кафе. Не то чтобы ей нравилась ее работа, но иметь хорошо оплачиваемую работу во много раз лучше, чем не иметь совсем. А в ее городе сейчас тяжело найти работу в принципе. В один день она закрыла кафе и осталась одна, чтобы посчитать выручку за день. На следующий день она так и не вышла на работу...</ru>
+    </Line>
+  
+  </Text>
+
+</body>
