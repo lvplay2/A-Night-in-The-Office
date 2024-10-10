@@ -82,7 +82,6 @@
      <Compile Include="Assets\Scripts\Assembly-CSharp\FP_Input.cs" />
      <Compile Include="Assets\Scripts\Assembly-CSharp\FP_Joystick.cs" />
      <Compile Include="Assets\Scripts\Assembly-CSharp\FP_Lookpad.cs" />
-     <Compile Include="Assets\Scripts\Assembly-CSharp\GameBaner.cs" />
      <Compile Include="Assets\Scripts\Assembly-CSharp\GameController.cs" />
      <Compile Include="Assets\Scripts\Assembly-CSharp\GameOverUi.cs" />
      <Compile Include="Assets\Scripts\Assembly-CSharp\GameSave.cs" />

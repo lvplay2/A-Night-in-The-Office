@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Game/Scenes/MainMenu.unity
-    guid: b8e0d3a31b6ce5f42a470b0c3b801d26
+    guid: 80c43882600dc2545a7c77eb51fd1ccb
   - enabled: 1
     path: Assets/Game/Scenes/KrastyKrabs.unity
-    guid: 59d65a96d0a3bfd40bdf0c430d7defce
+    guid: 01cb1195593974f45a5db3528b84d2b5
